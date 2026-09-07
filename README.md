@@ -48,7 +48,7 @@ MIT — see [LICENSE](LICENSE). The MIT text covers "the Software **and
 associated documentation files**", so the manual, the screenshots and the
 example antennas are under the same terms.
 
-1,7M in total. The binary is stripped, 1,4M.
+1,7M in total.
 
 Built on 07.09.2026.
 
@@ -99,6 +99,6 @@ MIT — [LICENSE](LICENSE). Канонический текст MIT говори
 сопутствующих файлах документации**», поэтому руководство, снимки и примеры —
 на тех же условиях.
 
-Всего 1,7M. Бинарь обрезан (`strip`), 1,4M.
+Всего 1,7M.
 
 Собрано 07.09.2026.
